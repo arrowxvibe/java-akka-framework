@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.2 Creating Actors in Java.md",
+                "file": "3.3 Actor Lifecycle (Creation, Restart, Stop).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2 Creating Actors in Java"
+              "title": "3.3 Actor Lifecycle (Creation, Restart, Stop)"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.2 Creating Actors in Java.md",
+                "file": "3.3 Actor Lifecycle (Creation, Restart, Stop).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.2 Creating Actors in Java"
+              "title": "Backlinks for 3.3 Actor Lifecycle (Creation, Restart, Stop)"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.2 Creating Actors in Java.md",
+                "file": "3.3 Actor Lifecycle (Creation, Restart, Stop).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3.2 Creating Actors in Java"
+              "title": "Outgoing links from 3.3 Actor Lifecycle (Creation, Restart, Stop)"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.2 Creating Actors in Java.md"
+                "file": "3.3 Actor Lifecycle (Creation, Restart, Stop).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.2 Creating Actors in Java"
+              "title": "Outline of 3.3 Actor Lifecycle (Creation, Restart, Stop)"
             }
           }
         ]
@@ -164,10 +164,11 @@
   },
   "active": "bcc12acdd2a33f4a",
   "lastOpenFiles": [
-    "3. Actors in Akka.md",
     "3.2 Creating Actors in Java.md",
+    "3. Actors in Akka.md",
     "2. Setting Up Akka in Java.md",
     "1. Introduction to Akka.md",
+    "3.3 Actor Lifecycle (Creation, Restart, Stop).md",
     "etc..md",
     "6. Akka Actor Systems and Configuration.md",
     "5. Supervision and Fault Tolerance.md",
@@ -189,7 +190,6 @@
     "4. Actor Communication.md",
     "16.%20Real-World%20Project.md",
     "15.%20Performance%20Optimization%20&%20Best%20Practices.md",
-    "14.%20Akka%20TestKit%20and%20Testing.md",
     "create_markdown_files.sh"
   ]
 }
