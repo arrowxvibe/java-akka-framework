@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "a0f3e950f9953e96",
+    "type": "split",
+    "children": [
+      {
+        "id": "90dcfbb053d511e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5bd4a1ba9bd1f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b091cfe688ccb156",
+    "type": "split",
+    "children": [
+      {
+        "id": "839b76d42c74262f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8a4675f545e72d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f482e10e4f92b425",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ce12aef101eea67e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1d433c7543ab7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "416ac589daf34895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3d46383f6e79dcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.4"
+            }
+          },
+          {
+            "id": "f40e0c6c000c0b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.4"
+            }
+          },
+          {
+            "id": "7fd250d3fff9e093",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fbee359df73753b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.4.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5bd4a1ba9bd1f0e",
+  "lastOpenFiles": [
+    "1. Introduction to Akka.md",
+    "1.4.md",
+    "1.3.md",
+    "1.2.md",
+    "1.1.md",
+    "0. Contents.md",
+    "16. Real-World Project.md",
+    "15. Performance Optimization & Best Practices.md",
+    "14. Akka TestKit and Testing.md",
+    "13. Akka Typed (Modern API).md",
+    "12. Akka gRPC and Integration with Other Systems.md",
+    "11. Akka Remote Actors.md",
+    "10. Akka HTTP.md",
+    "9. Akka Cluster and Distributed Systems.md",
+    "8. Akka Streams (Reactive Streams).md",
+    "7. Akka Persistence.md",
+    "6. Akka Actor Systems and Configuration.md",
+    "5. Supervision and Fault Tolerance.md",
+    "4. Actor Communication.md",
+    "3. Actors in Akka.md",
+    "2. Setting Up Akka in Java.md",
+    "16.%20Real-World%20Project.md",
+    "15.%20Performance%20Optimization%20&%20Best%20Practices.md",
+    "14.%20Akka%20TestKit%20and%20Testing.md",
+    "13.%20Akka%20Typed%20(Modern%20API).md",
+    "12.%20Akka%20gRPC%20and%20Integration%20with%20Other%20Systems.md",
+    "create_markdown_files.sh"
+  ]
+}
