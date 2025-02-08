@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introduction to Akka.md",
+                "file": "2. Setting Up Akka in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction to Akka"
+              "title": "2. Setting Up Akka in Java"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to Akka.md",
+                "file": "2. Setting Up Akka in Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Introduction to Akka"
+              "title": "Backlinks for 2. Setting Up Akka in Java"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introduction to Akka.md",
+                "file": "2. Setting Up Akka in Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Introduction to Akka"
+              "title": "Outgoing links from 2. Setting Up Akka in Java"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction to Akka.md"
+                "file": "2. Setting Up Akka in Java.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Introduction to Akka"
+              "title": "Outline of 2. Setting Up Akka in Java"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "bcc12acdd2a33f4a",
   "lastOpenFiles": [
-    "etc..md",
     "1. Introduction to Akka.md",
+    "etc..md",
     "2. Setting Up Akka in Java.md",
     "6. Akka Actor Systems and Configuration.md",
     "5. Supervision and Fault Tolerance.md",
