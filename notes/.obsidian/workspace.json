@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Actors in Akka.md",
+                "file": "3.7 Handling Exceptions in Actors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Actors in Akka"
+              "title": "3.7 Handling Exceptions in Actors"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 473.5
   },
   "right": {
     "id": "f1d433c7543ab7a2",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Actors in Akka.md",
+                "file": "3.7 Handling Exceptions in Actors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Actors in Akka"
+              "title": "Backlinks for 3.7 Handling Exceptions in Actors"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Actors in Akka.md",
+                "file": "3.7 Handling Exceptions in Actors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. Actors in Akka"
+              "title": "Outgoing links from 3.7 Handling Exceptions in Actors"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Actors in Akka.md"
+                "file": "3.7 Handling Exceptions in Actors.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Actors in Akka"
+              "title": "Outline of 3.7 Handling Exceptions in Actors"
             }
           }
         ]
@@ -164,11 +164,14 @@
   },
   "active": "bcc12acdd2a33f4a",
   "lastOpenFiles": [
-    "3.4 Actor Behavior and State Management.md",
     "3. Actors in Akka.md",
+    "3.7 Handling Exceptions in Actors.md",
+    "3.6 Actor Hierarchies and Supervision.md",
+    "3.4 Actor Behavior and State Management.md",
+    "3.3 Actor Lifecycle (Creation, Restart, Stop).md",
+    "3.5 Message Passing in Actors (tell vs ask pattern).md",
     "2. Setting Up Akka in Java.md",
     "1. Introduction to Akka.md",
-    "3.3 Actor Lifecycle (Creation, Restart, Stop).md",
     "3.2 Creating Actors in Java.md",
     "etc..md",
     "6. Akka Actor Systems and Configuration.md",
@@ -187,9 +190,6 @@
     "10. Akka HTTP.md",
     "9. Akka Cluster and Distributed Systems.md",
     "8. Akka Streams (Reactive Streams).md",
-    "7. Akka Persistence.md",
-    "4. Actor Communication.md",
-    "16.%20Real-World%20Project.md",
     "create_markdown_files.sh"
   ]
 }
